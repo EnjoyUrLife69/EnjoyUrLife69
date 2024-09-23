@@ -2,4 +2,4 @@
 > **Valar Morghulis**.
 
 
-[![](https://visitcount.itsvg.in/api?id=EnjoyUrLife&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<img align="right" src="https://komarev.com/ghpvc/?username=iyasbagus&label=Profile%20views&color=0e75b6&style=flat" />
